@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.wrapper {
+  background: url(img/23.jpg);
+  height: 100vh;
+  text-transform: uppercase;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+.title {
+  color: #dd4242;
+  align-items: center;
+}
